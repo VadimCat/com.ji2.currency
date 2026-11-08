@@ -1,7 +1,8 @@
 {
   "name": "Currency",
-  "references": [
-    "ReactivePropety"
+    "references": [
+    "ReactivePropety",
+    "Ji2.Saves"
   ],
   "autoReferenced": false
 }
