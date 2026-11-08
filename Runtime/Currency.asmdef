@@ -1,0 +1,7 @@
+{
+  "name": "Currency",
+  "references": [
+    "ReactivePropety"
+  ],
+  "autoReferenced": false
+}

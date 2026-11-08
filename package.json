@@ -1,0 +1,10 @@
+{
+  "name": "com.ji2.currency",
+  "version": "1.0.0",
+  "displayName": "Ji2 Currency",
+  "description": "Base currency model.",
+  "unity": "2022.3",
+  "author": {
+    "name": "Ji2"
+  }
+}
